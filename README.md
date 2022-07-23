@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sapien2710
 - 👀 I’m interested in all data related roles; analyst, business intelligence, scientist.
-- 🌱 I’m currently learning ...
+- 🌱 I’m a masters student at CMU pursuing Information Systems Management
 - 💞️ I’m looking to collaborate on API projects, ML and AI ecosystemns.
 - 📫 You can reach me on my email: purkarabhijit@gmail.com
